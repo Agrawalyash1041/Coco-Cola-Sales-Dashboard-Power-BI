@@ -40,9 +40,8 @@ The dashboard is powered by the Coca-Cola Sales Dataset, containing detailed inf
 To explore the dashboard:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the main script to launch the dashboard interface.
-4. Interact with the different graphs and charts to analyze Coca-Cola sales data for the US states.
+2. Open the "Coco-cola Sales Dashboard.pbix" file in your Power BI Desktop
+3. Interact with the different graphs and charts to analyze Coca-Cola sales data for the US states.
 
 ## Contributions <a name="contributions"></a>
 
@@ -51,5 +50,3 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 ## Feedback <a name="feedback"></a>
 
 Your feedback is valuable! If you have any suggestions, feature requests, or bug reports, please open an issue on the GitHub repository. Together, let's make this dashboard a powerful tool for analyzing Coca-Cola sales data.
-
-Start exploring Coca-Cola sales trends today with the Coca-Cola Sales Analysis Dashboard!
