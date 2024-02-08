@@ -1,14 +1,20 @@
 # Coco Cola Sales Dashboard Power BI
 
-# Coca-Cola Sales Analysis Dashboard
 
 ## Table of Contents
-1. [Description](#description)
-2. [Features](#features)
-3. [Dataset](#dataset)
-4. [Usage](#usage)
-5. [Contributions](#contributions)
-6. [Feedback](#feedback)
+1. [Preview](#preview)
+2. [Description](#description)
+3. [Features](#features)
+4. [Dataset](#dataset)
+5. [Usage](#usage)
+6. [Contributions](#contributions)
+7. [Feedback](#feedback)
+
+
+## Preview <a name="preview"></a>
+
+![cover paGE](https://github.com/Agrawalyash1041/Coco-Cola-Sales-Dashboard-Power-BI/assets/111517167/a6449b7f-db8d-4da3-83b3-e3957d88c195)
+
 
 ## Description <a name="description"></a>
 
@@ -23,6 +29,7 @@ Welcome to the Coca-Cola Sales Analysis Dashboard! This project aims to provide 
 3. **Operating Profit Analysis Graph:** Dive deep into the financial health of Coca-Cola sales with an analysis of operating profit trends over time. Understand the factors influencing profit margins and identify opportunities for improvement.
 
 4. **Key Indicators Matrix:** A comprehensive matrix displaying essential metrics such as total sales, total units sold, per-unit price, margin profit, and operating profit. This matrix provides a holistic view of the sales performance, enabling users to make data-driven decisions.
+
 
 ## Dataset <a name="dataset"></a>
 
